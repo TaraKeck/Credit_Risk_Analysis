@@ -38,10 +38,22 @@ The following deliverables included in this analysis:
 ![image](https://user-images.githubusercontent.com/85530690/136484795-0456d708-857e-4af8-a397-b66d468181d5.png)
 
 - SMOTEENN model
+![image](https://user-images.githubusercontent.com/85530690/136484858-016633ab-d780-4134-afc1-2d0293f7b781.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484892-8a64bd93-2a32-4a23-86c3-33aa2c8c4e38.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484921-1fa0e699-6a6e-4bbc-b6a9-01c863f41445.png)
+
 
 - BalancedRandomForestClassifier model
+![image](https://user-images.githubusercontent.com/85530690/136485290-3d8d2e27-57ac-4c79-9405-0f02964049fb.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136485308-dd54e7c1-acd8-4050-8b1f-d095ce71f75f.png)
 
 - EasyEnsembleClassifier model
+![image](https://user-images.githubusercontent.com/85530690/136485344-548a184c-00a8-4825-864c-889e673828b8.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136485364-36d48d15-5247-4831-994f-bf983057cc57.png)
 
 
 ## Summary:
