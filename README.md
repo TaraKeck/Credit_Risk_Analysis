@@ -13,11 +13,18 @@ The following deliverables included in this analysis:
 
 ## Results:
 
-- There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
-
-- (Balanced Accuracy Scores, Confusion Matrixes and Imbalanced Classification Reports)
-
 - RandomOverSampler model
+
+![image](https://user-images.githubusercontent.com/85530690/136484039-82101300-06bb-4435-932f-ed1026cfff9c.png)
+
+
+![image](https://user-images.githubusercontent.com/85530690/136484312-c712f7ba-4761-4f0b-9929-dd1e58269920.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484453-463bff5d-131f-4a50-a8cb-08a17e755ce4.png)
+
+The balanced accuracy score is:  64%.
+The high_risk precision is approximately 1%, 
+
 
 - SMOTE model 
 
