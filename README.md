@@ -14,7 +14,6 @@ The following deliverables included in this analysis:
 ## Results:
 
 - RandomOverSampler model
-
 ![image](https://user-images.githubusercontent.com/85530690/136484039-82101300-06bb-4435-932f-ed1026cfff9c.png)
 
 
@@ -22,13 +21,21 @@ The following deliverables included in this analysis:
 
 ![image](https://user-images.githubusercontent.com/85530690/136484453-463bff5d-131f-4a50-a8cb-08a17e755ce4.png)
 
-The balanced accuracy score is:  64%.
-The high_risk precision is approximately 1%, 
-
 
 - SMOTE model 
+![image](https://user-images.githubusercontent.com/85530690/136484568-d860b92e-fa6d-4b5d-8db6-8901f4f3f660.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484608-8ac1cfca-52d6-4abc-b187-8a6eba867495.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484644-b4369d22-0db9-4cda-bea0-c162d0accc85.png)
+
 
 - ClusterCentroids model 
+![image](https://user-images.githubusercontent.com/85530690/136484709-ac6a6210-69cb-4b83-aedb-598bc6e00cdd.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484759-243e42b3-5eb2-4d33-824c-2ee76ebb0378.png)
+
+![image](https://user-images.githubusercontent.com/85530690/136484795-0456d708-857e-4af8-a397-b66d468181d5.png)
 
 - SMOTEENN model
 
