@@ -26,7 +26,7 @@ The following deliverables included in this analysis:
 
 ### SMOTE model 
 - Accuracy Score is 62%
--
+
 ![image](https://user-images.githubusercontent.com/85530690/136484568-d860b92e-fa6d-4b5d-8db6-8901f4f3f660.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/136484608-8ac1cfca-52d6-4abc-b187-8a6eba867495.png)
