@@ -26,7 +26,7 @@ The following deliverables included in this analysis:
 
 ### SMOTE model 
 - Accuracy Score is 62%, the precision for the high_risk has a very low positivity at 1% and the recall is 64%
-- 
+
 ![image](https://user-images.githubusercontent.com/85530690/136484568-d860b92e-fa6d-4b5d-8db6-8901f4f3f660.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/136484608-8ac1cfca-52d6-4abc-b187-8a6eba867495.png)
@@ -36,7 +36,7 @@ The following deliverables included in this analysis:
 
 ### ClusterCentroids model 
 - Accuracy Score is 51%, the precision for the high_risk has a very low positivity at 1% and the recall is 44%
-- 
+
 ![image](https://user-images.githubusercontent.com/85530690/136484709-ac6a6210-69cb-4b83-aedb-598bc6e00cdd.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/136484759-243e42b3-5eb2-4d33-824c-2ee76ebb0378.png)
@@ -45,7 +45,7 @@ The following deliverables included in this analysis:
 
 ### SMOTEENN model
 - Accuracy Score is 62%, the precision for the high_risk has a very low positivity at 1% and the recall is 54%
-- 
+
 ![image](https://user-images.githubusercontent.com/85530690/136484858-016633ab-d780-4134-afc1-2d0293f7b781.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/136484892-8a64bd93-2a32-4a23-86c3-33aa2c8c4e38.png)
@@ -55,14 +55,14 @@ The following deliverables included in this analysis:
 
 ### BalancedRandomForestClassifier model
 - Accuracy Score is 79%, the precision for the high_risk is 70% and the recall is 87%
-- 
+
 ![image](https://user-images.githubusercontent.com/85530690/136485290-3d8d2e27-57ac-4c79-9405-0f02964049fb.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/136485308-dd54e7c1-acd8-4050-8b1f-d095ce71f75f.png)
 
 ### EasyEnsembleClassifier model
 - Accuracy Score is 93%, the precision for the high_risk is 92% and the recall is 94%
-- 
+
 ![image](https://user-images.githubusercontent.com/85530690/136485344-548a184c-00a8-4825-864c-889e673828b8.png)
 
 ![image](https://user-images.githubusercontent.com/85530690/136485364-36d48d15-5247-4831-994f-bf983057cc57.png)
